@@ -1,5 +1,4 @@
 <?php
-require '../instance-config.php';
 /**
  * Установка констант путей:
  */
